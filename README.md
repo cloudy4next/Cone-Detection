@@ -4,7 +4,7 @@
 
 
 
-Dataset and Testign weights [Gdrive](https://bit.ly/2YWgw96), in PASCAL VOC format, and YOLOv3 format.
+Dataset and Testign weights [Gdrive](https://drive.google.com/drive/folders/1jUk6cKJPwbQ4Ua4DLO1TrGSkqWdPbX3M?usp=sharing), in PASCAL VOC format, and YOLOv3 format.
 
 
 + Train: 
